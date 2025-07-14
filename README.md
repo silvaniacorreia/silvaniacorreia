@@ -50,12 +50,3 @@ Sou uma profissional de dados com formação em Biologia e em Análise e Desenvo
 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/silvaniacorreia/)  
 Estou sempre aberta a trocas sobre dados, tecnologia, projetos e inovação 🚀
-
----
-
-<details>
-  <summary>📊 Estatísticas do GitHub</summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaniacorreia&layout=compact)
-  ![Silvania's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaniacorreia&show_icons=true&hide=prs&theme=default)
-</details>
