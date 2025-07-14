@@ -8,7 +8,6 @@ Sou uma profissional de dados com formação em Biologia e em Análise e Desenvo
 
 - Apaixonada por análise de dados, automações e construção de pipelines eficientes
 - Experiência com KPIs, análises operacionais e inteligência de negócios
-- Explorando o ecossistema **Vertex AI** para machine learning em nuvem
 - Forte atuação com práticas de governança, segurança e versionamento
 - Desenvolvimento de produtos analíticos orientados a impacto
 
