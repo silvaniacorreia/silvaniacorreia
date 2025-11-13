@@ -16,10 +16,10 @@ Sou uma profissional de dados com formação em Biologia e em Análise e Desenvo
 ### ⚙️ Tecnologias & Ferramentas
 
 - **Linguagens**: Python, SQL, R, JavaScript, Java, C++
-- **Machine Learning**: Scikit-learn, Tensorflow, Vertex AI
+- **Machine Learning**: Scikit-learn, Tensorflow
 - **Mensageria & Orquestração**: Kafka, Airflow, Node-RED, MQTT, HiveMQ
 - **Cloud & Dados**: GCP, AWS, Azure, BigQuery, PostgreSQL, Redshift, S3, Apache Spark, DBT, Looker
-- **Aplicações**: Streamlit, APIs REST, OAuth, Dashboards
+- **Aplicações**: Streamlit, APIs REST, OAuth
 - **DevOps & Boas Práticas**: CI/CD, controle de versão, camadas (raw → semantic), catálogo de dados
 
 ---
@@ -28,22 +28,18 @@ Sou uma profissional de dados com formação em Biologia e em Análise e Desenvo
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🔗 [Recomendador de Produtos](https://github.com/silvaniacorreia/recomendador-produtos) | Projeto completo com Vertex AI: tratamento de dados, AutoML, deploy e monitoramento |
+| 🔗 [Teste A/B Cupons de Desconto](https://silvaniacorreia.github.io/ifood-case-cupons/) | Análise de um teste A/B de cupons, avaliando impacto em engajamento, gasto dos usuários e viabilidade financeira, além de propor melhorias estratégicas e segmentação de usuários. |
 | 🔗 [Monitoramento de Temperatura com IoT](https://github.com/silvaniacorreia/ods6_iot_projeto_controle_temperatura) | Simulação de IoT com ESP32, MQTT e Node-RED |
 | 🔗 [Previsão de Temperatura com Regressão Linear](https://github.com/silvaniacorreia/desafio_BIGMAAP) | Regressão linear com predições validadas por dados reais |
-| 🔗 [IVI com R para Ecologia](https://github.com/silvaniacorreia/funcao-importancia-ecologica) | Análise ecológica com R — Índice de Valor de Importância |
 | 🔗 [Hackathon Mackenzie-Accenture](https://github.com/silvaniacorreia/Hackathon_Grupo03_Accenture) | Visão computacional para segurança escolar usando AIV |
-| 🔗 [Carreiras em Dados no Mundo](https://github.com/silvaniacorreia/Careers-in-Data-Around-the-World) | Dashboard com insights sobre o mercado global de dados |
-
 ---
 
 ### 📌 Estudos & Interesses Atuais
 
-- MLOps e automações com Vertex AI, Airflow, CI/CD
-- Engenharia de features para modelos de machine learning
-- Governança de dados: versionamento, semântica, acesso seguro
-- APIs, mensageria e orquestração de microsserviços
-
+- Modelagem & Engenharia de Dados: dbt, Databricks, PySpark, modelos incrementais e arquitetura medallion
+- Orquestração & Automação: Airflow e pipelines orientados a dependências, integrações via APIs
+- Arquiteturas em Cloud: BigQuery, Redshift, Athena/Glue, otimização de custo e performance
+- Processamento orientado a eventos: Kafka, Pub/Sub e ingestão assíncrona para microsserviços
 ---
 
 ### 📫 Contato
